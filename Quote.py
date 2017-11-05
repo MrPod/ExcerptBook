@@ -1,4 +1,4 @@
-# Strukov Alexandr, 11-5
+# Strukov Alexandr
 
 from datetime import datetime
 
